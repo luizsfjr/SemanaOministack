@@ -1,6 +1,6 @@
 # SemanaOministack
 
-Aplicação desenvolvida durante a disciplina de Programação Web
+*Aplicação desenvolvida durante a disciplina de Programação Web pelos alunos Luiz Carlos da Silva Fernandes Junior e Rivail Cavalcante de Araujo*
 
 ## Como rodar a aplicação web?
 
